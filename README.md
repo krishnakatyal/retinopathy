@@ -1,2 +1,2 @@
-# retinopathy
-Retinopathy in Diabetic Patients
+# Retinopathy
+Retinopathy in Diabetic Patients Detection
