@@ -12,3 +12,4 @@ The Damage To The Retina Of The Eyes Is Retinopathy, which can cause vision Impa
 - Vitreous Hemorrhage
 - Floaters, or small objects that drift through the field of vision
 - Decreased visual acuity
+- Blurred Vision
