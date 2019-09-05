@@ -10,6 +10,6 @@ The Damage To The Retina Of The Eyes Is Retinopathy, which can cause vision Impa
 
 ### Signs And Symptoms
 - Vitreous Hemorrhage.
-- Floaters, or small objects that drift through the field of vision.
+- Floaters, or Small objects that drift through the field of vision.
 - Decreased visual acuity
 - Blurred Vision.
